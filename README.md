@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer and artist</h3>
 
 - 📫 How to reach me **salah.driwa.job@gmail.com**
-portofolio website : https://true-dark-portfolio.netlify.app/
+portofolio website : [https://true-dark-portfolio.netlify.app/](https://truedark-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
