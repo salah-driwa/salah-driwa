@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm salah driwa</h1>
-<h3 align="center">A passionate frontend developer and artist</h3>
+<h3 align="center">A passionate full stack 
+developer and artist</h3>
 
 - 📫 How to reach me **salah.driwa.job@gmail.com**
 portofolio website : [https://true-dark-portfolio.netlify.app/](https://truedark-portfolio.netlify.app/)
