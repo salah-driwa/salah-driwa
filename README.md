@@ -5,8 +5,7 @@ A passionate Full Stack Developer & Artist
 </h3>
 
 <p align="center">
-📫 Contact me:
-<b>salah.driwa.job@gmail.com</b>
+📫 <b>salah.driwa.job@gmail.com</b>
 </p>
 
 <p align="center">
@@ -24,11 +23,9 @@ true-dark-portfolio.netlify.app
 <a href="https://www.facebook.com/truedark.art1" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
 </a>
-
 <a href="https://www.instagram.com/truedark.art/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
 </a>
-
 <a href="https://www.youtube.com/channel/UC7KjkLT8WyZAJNDAeYSc1Og" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40"/>
 </a>
@@ -38,8 +35,7 @@ true-dark-portfolio.netlify.app
 
 <h3 align="center">Languages & Tools</h3>
 
-<div align="center">
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
@@ -64,25 +60,21 @@ true-dark-portfolio.netlify.app
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45"/>
-
-</div>
+</p>
 
 ---
 
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-
 <img
 src="https://github-readme-stats.vercel.app/api?username=salah-driwa&show_icons=true&theme=tokyonight"
 height="170"
 />
-
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-driwa&layout=compact&theme=tokyonight"
 height="170"
 />
-
 </p>
 
 ---
