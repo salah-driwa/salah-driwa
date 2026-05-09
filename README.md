@@ -33,9 +33,9 @@ I'm a passionate full-stack developer and artist with expertise in building mode
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/truedark.art1" target="_blank">
+<p align="center">  <a href="https://www.facebook.com/truedark.art1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" height="50" alt="Facebook"/>
-  </a>
+  </a> </p>
   <a href="https://www.instagram.com/truedark.art/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" height="50" alt="Instagram"/>
   </a>
