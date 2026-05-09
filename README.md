@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Creative+UI%2FUX+Designer;Digital+Artist" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Creative+UI%2FUX+Designer;Digital+A[...]"/>
 </p>
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate full-stack developer and artist with expertise in building modern web and mobile applications. I combine technical excellence with creative design to deliver exceptional digital experiences.
+I'm a passionate full-stack developer and artist with expertise in building modern web and mobile applications. I combine technical excellence with creative design to deliver exceptional digital exper[...]
 
 - 🚀 Building scalable web and mobile applications
 - 🎨 Designing beautiful and intuitive user interfaces
@@ -145,7 +145,7 @@ I'm a passionate full-stack developer and artist with expertise in building mode
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salah-driwa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   </a>
   <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-driwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-driwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=HTML,CSS" alt="Top Languages"/>
   </a>
 </p>
 
