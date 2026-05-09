@@ -124,10 +124,10 @@ I'm always interested in exciting projects and collaborations. Feel free to reac
 
 <p align="center">
   <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    Email: salah.driwa.job@gmail.com
   </div>
   <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    Portfolio: https://true-dark-portfolio.netlify.app/
   </div>
 </p>
 
