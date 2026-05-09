@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Creative+UI%2FUX+Designer;Digital+Artist" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Developer;Creative+UI%2FUX+Designer;Digital+Artist" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate full-stack developer and artist with expertise in building modern web and mobile applications. I combine technical excellence with creative design to deliver exceptional digital experiences. With a strong background in both frontend and backend development, I'm committed to creating impactful solutions that make a difference.
+I'm a passionate full-stack developer and artist with expertise in building modern web and mobile applications. I combine technical excellence with creative design to deliver exceptional digital experiences.
 
 - 🚀 Building scalable web and mobile applications
 - 🎨 Designing beautiful and intuitive user interfaces
@@ -33,13 +33,13 @@ I'm a passionate full-stack developer and artist with expertise in building mode
 ## 🌐 Connect With Me
 
 <p align="center">
-<p align="center">  <a href="https://www.facebook.com/truedark.art1" target="_blank">
+  <a href="https://www.facebook.com/truedark.art1" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" height="50" alt="Facebook"/>
-  </a> </p>
-  <a href="https://www.instagram.com/truedark.art/" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/truedark.art/" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" height="50" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC7KjkLT8WyZAJNDAeYSc1Og" target="_blank">
+  <a href="https://www.youtube.com/channel/UC7KjkLT8WyZAJNDAeYSc1Og" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="50" height="50" alt="YouTube"/>
   </a>
 </p>
@@ -123,10 +123,10 @@ I'm a passionate full-stack developer and artist with expertise in building mode
 I'm always interested in exciting projects and collaborations. Feel free to reach out if you have an idea or just want to chat about tech and design!
 
 <p align="center">
-  <a href="mailto:salah.driwa.job@gmail.com">
+  <a href="mailto:salah.driwa.job@gmail.com" style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://true-dark-portfolio.netlify.app/" target="_blank">
+  <a href="https://true-dark-portfolio.netlify.app/" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
